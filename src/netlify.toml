@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/profilePic/*"
-to = "https://ayblogx.netlify.app/profilePic/:splat"
-status = 200
