@@ -2,3 +2,7 @@
 from = "/*"
 to = "/index.html"
 status = 200
+
+from = "/public/*"
+  to = "https://ayblogx.netlify.app/public/:splat"
+  status = 200
